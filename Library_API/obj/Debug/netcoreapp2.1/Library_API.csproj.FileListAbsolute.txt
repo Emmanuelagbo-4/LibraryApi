@@ -1,0 +1,14 @@
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\bin\Debug\netcoreapp2.1\Library_API.deps.json
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\bin\Debug\netcoreapp2.1\Library_API.runtimeconfig.json
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\bin\Debug\netcoreapp2.1\Library_API.runtimeconfig.dev.json
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\bin\Debug\netcoreapp2.1\Library_API.dll
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\bin\Debug\netcoreapp2.1\Library_API.pdb
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.csprojAssemblyReference.cache
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.RazorAssemblyInfo.cache
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.RazorAssemblyInfo.cs
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.AssemblyInfoInputs.cache
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.AssemblyInfo.cs
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.RazorTargetAssemblyInfo.cache
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.dll
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.pdb
+C:\Users\Aerodynamicman\source\repos\VS_2019_Projects\API_Projects\Library_API\Library_API\obj\Debug\netcoreapp2.1\Library_API.csproj.CoreCompileInputs.cache
